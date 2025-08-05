@@ -1,0 +1,35 @@
+# Compiled object files and executables
+*.o
+*.obj
+*.exe
+*.out
+*.app
+*.a
+*.lib
+*.dll
+*.so
+
+# Precompiled headers
+*.gch
+*.pch
+
+# Build directories
+build/
+bin/
+Debug/
+Release/
+
+# VS Code settings
+.vscode/
+
+# Dev C++ settings
+*.dev
+*.dep
+*.opt
+*.exe.user
+
+# macOS
+.DS_Store
+
+# Linux swap/use files
+*~
